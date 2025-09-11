@@ -1,0 +1,13 @@
+# Ignore cache and Jupyter checkpoint folders
+cache/
+.ipynb_checkpoints/
+
+# Ignore a specific notebook
+Deep_Learning.ipynb
+
+# Common extras you probably don't want
+Thumbs.db
+.DS_Store
+.env
+.venv/
+env/
